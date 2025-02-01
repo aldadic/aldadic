@@ -8,9 +8,4 @@ In my studies I focus on applied mathematics, i.e.
 - various computer science topics (such as machine learning).
 
 I also work as a student assistant in the workgroup [Numerics of PDEs](https://www.tuwien.at/mg/asc/numpdes), while continuing to support [TUForMath](https://tuformath.at/).
-In my spare time I enjoy tinkering with tech, which is why my hobbies include
-
-- programming,
-- self-hosting,
-- home automation,
-- 3D printing.
+In my spare time I enjoy tinkering with tech, which is why my hobbies include programming, self-hosting, home automation, and 3D printing.
